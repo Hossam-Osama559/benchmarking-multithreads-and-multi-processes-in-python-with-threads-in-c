@@ -3,14 +3,8 @@ a new thread in c and new thread or new process in python
 
 and a function that resposible of handling the connection
 in all cases 
-just print simple string in the terminal "|" and update the cursor to make the printing vertical 
-thing like that for each connection 
+just print simple string in the terminal "|" and update the cursor to make the printing vertical not horizontal 
 
-|
-|
-|
-|
-|
 
 and making a dummy loop that just iterate for one billion iteration to mimic a cpu bound function 
 
